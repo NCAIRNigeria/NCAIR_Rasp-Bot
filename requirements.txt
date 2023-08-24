@@ -1,0 +1,6 @@
+RPi.GPIO
+opencv-python
+tflite-support
+jupyter
+Flask
+python-logging
