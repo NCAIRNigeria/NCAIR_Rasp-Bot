@@ -2,6 +2,8 @@
 
 ![Rasp-Bot](images/raspbot.jpg)
 
+## This documentation is incomplete 
+
 Welcome to the NCAIR_Rasp-Bot project! This repository contains code, resources, and documentation for building and programming an autonomous Unmanned Ground Vehicle (UGV) powered by a Raspberry Pi. The project includes various modes such as basic motion, collision avoidance, object following, road following, and teleoperation.
 
 ## Table of Contents
